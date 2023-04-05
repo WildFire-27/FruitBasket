@@ -1,0 +1,24 @@
+.header-nav {
+  position: sticky;
+  box-shadow: 0px 10px 20px #ccc;
+  margin-bottom: 10px;
+}
+.header-ul {
+  display: inline-flex;
+  flex: 1 1;
+  justify-content: space-between;
+  align-items: center;
+  height: 70px;
+  position: fixed;
+  width: -webkit-fill-available;
+  background-image: url(https://images.unsplash.com/photo-1658752232366-659761639d18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTN8fGZydWl0cyUyMGltYWdlc3xlbnwwfDB8MHx8&auto=format&fit=crop&w=500&q=60);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  padding: 0 60px;
+}
+.header-h2 {
+  font-family:cursive;
+  font-size: 30px;
+}
