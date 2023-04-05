@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/WildFire-27/FruitBasket.git/static/css/main.35bc1126.css",
+    "main.js": "/WildFire-27/FruitBasket.git/static/js/main.ab3c3dd7.js",
+    "index.html": "/WildFire-27/FruitBasket.git/index.html",
+    "main.35bc1126.css.map": "/WildFire-27/FruitBasket.git/static/css/main.35bc1126.css.map",
+    "main.ab3c3dd7.js.map": "/WildFire-27/FruitBasket.git/static/js/main.ab3c3dd7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35bc1126.css",
+    "static/js/main.ab3c3dd7.js"
+  ]
+}
